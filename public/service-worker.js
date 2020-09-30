@@ -1,11 +1,11 @@
 const FILES_TO_CACHE = [
   "./index.html",
-  "./css/style.css",
+  "./css/styles.css",
   "./js/idb.js",
   "./js/index.js"
 ];
 
-const APP_PREFIX = 'FoodFest-';
+const APP_PREFIX = 'BudgetSmart-';
 const VERSION = 'version_01';
 //set up as global const to help keep track of which cache to use
 const CACHE_NAME = APP_PREFIX + VERSION;
