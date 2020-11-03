@@ -1,4 +1,4 @@
-# social-interreactions
+# BudgetSmart
 
 ![](public/images/money-money-money.jpg)
 
